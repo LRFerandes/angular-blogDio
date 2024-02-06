@@ -1,0 +1,21 @@
+.box{
+    width: 60%;
+}
+.box_titulo{
+
+    display: flex;
+    margin: 7%;
+    margin-left: 1%;
+
+}
+h1{
+    font-size: 5em;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+
+}
+h3{
+    align-self: end;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+}
